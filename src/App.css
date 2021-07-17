@@ -1,4 +1,5 @@
 .App {
+  margin-top: 20px;
   text-align: center;
 }
 
@@ -35,4 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.submit{
+  padding: 10px;
+  margin-left: 20px;
 }
